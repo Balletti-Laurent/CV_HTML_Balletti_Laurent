@@ -1,0 +1,13 @@
+.styleNone{
+  list-style: none;
+}
+.Competences{
+  background-color: #B3129E;
+  opacity: 0.5;
+  height: 50px;
+  width: 33%;
+  float: left;
+}
+/*div{
+  float: left;
+}*/
