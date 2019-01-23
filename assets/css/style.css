@@ -1,0 +1,81 @@
+#backgroundHeader{
+  box-shadow: 6px 6px 6px;
+  background: rgba(193, 144, 189, 1);
+  border: 1px solid black;
+  font-family: 'Signika', sans-serif;
+  padding-top: 20px;
+}
+
+#name{
+  font-size: 1.8em;
+}
+
+ #job{
+  font-size: 2.6em;
+}
+
+.background {
+  background-image:url(../images/Background.jpg);
+
+  font-family: 'Signika', sans-serif;
+  margin:0;
+  padding:0;
+  -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+  background-size: cover; /* version standardisée */
+}
+
+.space {
+  margin-bottom: 30px;
+}
+
+.titleSkills {
+  text-align: center;
+  margin-left: 40px;
+  padding-bottom: 30px;
+}
+
+.title {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.alignButton {
+  text-align: center;
+}
+
+.styleNoneCoordonnees{
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.styleNone{
+  list-style: none;
+}
+
+.skills{
+  style: none;
+  box-shadow: 6px 6px 6px;
+  background: rgba(249, 164, 200, 0.7);
+  border: 1px solid black;
+  padding-top: 30px;
+  padding-right: 40px;
+  padding-bottom: 20px;
+}
+
+
+.textCenter{
+  text-align: center;
+}
+
+.styleBox{
+  box-shadow: 6px 6px 6px;
+  background: rgba(249, 164, 200, 0.7);
+  border: 1px solid black;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.network{
+  width: 100px;
+  height: 100px;
+}
