@@ -1,0 +1,22 @@
+#test{
+      box-shadow: 6px 6px 6px;
+  background: rgba(193, 144, 189, 1);
+  border: 1px solid black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#background{
+    
+  background: rgba(51, 101, 201, 1);
+  border: 1px solid black;
+
+}
+.piou2{
+  color: green;
+  font-style: oblique;
+  text-align: center;
+}
+.piou{
+    background-color:lightgrey;
+}
+
