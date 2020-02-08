@@ -1,9 +1,10 @@
 #backgroundHeader{
   box-shadow: 6px 6px 6px;
-  background: rgba(193, 144, 189, 1);
+  background: rgba(152, 173, 202, 1);
+  // background: rgba(46, 92, 240, 1);
   border: 1px solid black;
   font-family: 'Signika', sans-serif;
-  padding-top: 20px;
+  padding-top: 35px;
 }
 
 #name{
@@ -15,7 +16,7 @@
 }
 
 .background {
-  background-image:url(../images/Background.jpg);
+  background-image:url(../images/Background.png);
 
   font-family: 'Signika', sans-serif;
   margin:0;
@@ -48,18 +49,26 @@
   padding-bottom: 20px;
 }
 
+.styleNoneCoordonnees2{
+  text-align: center;
+  padding-top: 20px;
+  font-size: 1.2em;
+}
+
+
+
 .styleNone{
   list-style: none;
 }
 
 .skills{
   style: none;
-  box-shadow: 6px 6px 6px;
-  background: rgba(249, 164, 200, 0.7);
+  background: rgba(255, 255, 255, 0.7);
   border: 1px solid black;
   padding-top: 30px;
   padding-right: 40px;
   padding-bottom: 20px;
+  border-radius: 10px;
 }
 
 
@@ -68,11 +77,11 @@
 }
 
 .styleBox{
-  box-shadow: 6px 6px 6px;
-  background: rgba(249, 164, 200, 0.7);
+  background: rgba(255, 255, 255, 0.7);
   border: 1px solid black;
   padding-top: 30px;
   padding-bottom: 20px;
+  border-radius: 10px;
 }
 
 .network{
